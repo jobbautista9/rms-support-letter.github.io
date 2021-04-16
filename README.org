@@ -1,0 +1,121 @@
+* An open letter in support of RMS.
+  :PROPERTIES:
+  :CUSTOM_ID: an-open-letter-in-support-of-rms.
+  :END:
+
+This README is available in: [[file:README_AF.org][🇿🇦]]
+[[file:README_AL.org][🇦🇱]] [[file:README_AR.org][🇦🇪]]
+[[file:README_DE.org][🇩🇪]] [[file:README_ES.org][🇪🇸]]
+[[file:README_FA.org][🇮🇷]] [[file:README_FI.org][🇫🇮]]
+[[file:README_FR.org][🇫🇷]] [[file:README_GL.org][🇪🇸]]
+[[file:README_GR.org][🇬🇷]] [[file:README_HU.org][🇭🇺]]
+[[file:README_IT.org][🇮🇹]] [[file:README_JP.org][🇯🇵]]
+[[file:README_KO.org][🇰🇷]] [[file:README_LV.org][🇱🇻]]
+[[file:README_NL.org][🇳🇱]] [[file:README_PL.org][🇵🇱]]
+[[file:README_PT_BR.org][🇧🇷]] [[file:README_PT_PT.org][🇵🇹]]
+[[file:README_RO.org][🇷🇴]] [[file:README_RS.org][🇷🇸]]
+[[file:README_RU.org][🇷🇺]] [[file:README_SE.org][🇸🇪]]
+[[file:README_TL.org][🇵🇭]] [[file:README_TR.org][🇹🇷]]
+[[file:README_UA.org][🇺🇦]] [[file:README_VI.org][🇻🇳]]
+[[file:README_ZH-CN.org][🇨🇳]] [[file:README_ZH-TW.org][🇹🇼]]
+
+To sign, *click
+[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][here]]*
+and name the file =<username>.yaml= (replace =<username>= with your
+name) with the following content:
+
+#+BEGIN_EXAMPLE
+  name: <your name here (optional organization or company)>
+  link: <link to your profile or site>
+#+END_EXAMPLE
+
+Without the =<>=.
+
+Example:
+
+#+BEGIN_EXAMPLE
+  name: Example name (Good company)
+  link: https://github.com/example_username
+#+END_EXAMPLE
+
+Don't use =<>= in this file, as well as non-ascii symbols in file name.
+If you're using your email as a link, prepend it with =mailto:=. If you
+are able to, please use your real name and add projects and affiliated
+organizations in parentheses.
+
+Then *click "Propose new file"* and go through the subsequent pages to
+create a merge request.
+
+If you can, please consider sharing this letter on your forums and
+social media and notify journalists who might be helpful to our cause.
+
+Alternatively, fork and clone the repo, create the file
+=_data/signed/<username>.yaml= manually, then commit and submit a PR.
+
+If you want to support the letter *without using Github*, go here:
+https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, or
+send a signed patch to [[mailto:signrms@prog.cf][signrms@prog.cf]] or
+[[mailto:~tyil/rms-support@lists.sr.ht][~tyil/rms-support@lists.sr.ht]].
+
+If you still require help via visual instructions, use
+[[https://invidious.snopyta.org/watch?v=1lz5S5oS8CU][this]] video.
+
+*** Did you change your mind and would like to remove your signature
+from the letter against Richard Stallman?
+    :PROPERTIES:
+    :CUSTOM_ID: did-you-change-your-mind-and-would-like-to-remove-your-signature-from-the-letter-against-richard-stallman
+    :END:
+
+You can show your intention here:
+https://github.com/rms-support-letter/revoke-open-letter-signature
+
+** Chatrooms
+   :PROPERTIES:
+   :CUSTOM_ID: chatrooms
+   :END:
+
+- *Matrix:*
+  [[https://matrix.to/#/+free-rms:matrix.org][+free-rms:matrix.org]]
+- *IRC:* #free-rms on [[https://freenode.net][freenode]]
+  ([[https://kiwiirc.com/client/irc.freenode.net/#free-rms][webchat]])
+  (Jabber gateway : =#free-rms%chat.freenode.net@biboumi.marc-o.win= )
+- *XMPP/jabber:*
+  [[xmpp:support-rms@conf.marc-o.win?join][support-rms@conf.marc-o.win]]
+- *Discord:* [[https://discord.gg/7FWkxG4CsU]]
+- *Telegram:* [[https://t.me/free_rms]]
+- *Github Discussion:*
+  [[https://github.com/rms-support-letter/rms-support-letter.github.io/discussions]]
+
+** Our friends
+   :PROPERTIES:
+   :CUSTOM_ID: our-friends
+   :END:
+
+https://stallmansupport.org/
+
+** Contact
+   :PROPERTIES:
+   :CUSTOM_ID: contact
+   :END:
+
+If you are a member of the press, a youtuber, or representing other news
+outlets, you can contact us under this email: -
+[[mailto:rms-support-letter@protonmail.com][rms-support-letter@protonmail.com]]
+
+** Licensing
+   :PROPERTIES:
+   :CUSTOM_ID: licensing
+   :END:
+
+The code in the repository is licensed under GPL-3.0-only.
+
+Images in the =assets= folder are licensed under
+[[https://creativecommons.org/licenses/by-sa/3.0/legalcode][CC BY-SA
+3.0]]. The social preview images are based off
+https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg,
+published under CC BY-SA 3.0, originally published as the cover of the
+O'Reilly book
+=Free as in Freedom: Richard Stallman's Crusade for Free Software by Sam Williams=,
+published on March 1, 2002 under the GFDL.
+
+Signatures are not copyrightable.

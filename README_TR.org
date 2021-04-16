@@ -1,0 +1,79 @@
+* RMS için destek metni
+  :PROPERTIES:
+  :CUSTOM_ID: rms-için-destek-metni
+  :END:
+
+İmzalamak için,
+*[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][buraya]]
+tıklayın* ve =<isim>.yaml= dosyasını (=<isim>= bölümünü kendi isminiz
+ile değiştirin) aşağıdaki gibi doldurun:
+
+#+BEGIN_EXAMPLE
+  name: <isim (isteğe bağlı olarak kurum ismi)>
+  link: <profil veya sitenizin linki>
+#+END_EXAMPLE
+
+=<>= olmadan.
+
+Örnek:
+
+#+BEGIN_EXAMPLE
+  name: Örnek isim (İyi şirket)
+  link: https://github.com/ornek_isim
+#+END_EXAMPLE
+
+=<>= ve ascii olmayan ifadeleri burada kullanmayın. Eğer e-postanızı
+link olarak kullanıyorsanız, =mailto= ekini başına ekleyin. Eğer
+mümkünse lütfen gerçek isminizi kullanın ve bağlı olduğunuz kurumu
+belirtin.
+
+Sonra *"Propose new file" butonuna tıklayın* ve merge isteği oluşturmak
+için sonraki sayfaya ilerleyin.
+
+Üslubumuzu keskin ancak profesyonel tutalım.
+
+Eğer mümkünse lütfen bu metni forum ve öbür sosyal mecralarda paylaşın,
+ve amacımızı duyurarak destek olmak için gazetecileri bilgilendirin.
+
+Alternatif olarak, bu depoyu forklayın ve klonlayın,
+=_data/signed/<isim>.yaml= konumunda dosya oluşturun, ve ardından
+yaptığınız eylemi manuel olarak commitleyin ve PR gönderin.
+
+Eğer bu metni *Github kullanmadan* desteklemek istiyorsanız: şu linki
+kullanın:
+https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
+veya [[mailto:signrms@prog.cf][signrms@prog.cf]] ve
+[[mailto:~tyil/rms-support@lists.sr.ht][~tyil/rms-support@lists.sr.ht]]
+adreslerinden birine imzalı yama gönderin.
+
+Eğer hala anlamadıysanız ve illaki görsel yardım istiyorum diyorsanız,
+[[https://invidious.snopyta.org/watch?v=1lz5S5oS8CU][şu]] videoya göz
+atın.
+
+*Yoğunluktan ötürü tüm imzalar maksimum 12 saat içinde işlenecektir.*
+
+** Sohber Odaları
+   :PROPERTIES:
+   :CUSTOM_ID: sohber-odaları
+   :END:
+
+- *Matrix:*
+  [[https://matrix.to/#/+free-rms:matrix.org][+free-rms:matrix.org]]
+- *IRC:* #free-rms on [[https://freenode.net][freenode]]
+- *Discord:* https://discord.gg/7FWkxG4CsU
+- *Telegram:* https://t.me/free_rms
+
+** Lisans
+   :PROPERTIES:
+   :CUSTOM_ID: lisans
+   :END:
+
+Depodaki kod GPL-3.0-only ile lisanslıdır.
+
+=assets= dizinindeki imgeler
+[[https://creativecommons.org/licenses/by-sa/3.0/legalcode][CC BY-SA
+3.0]] ile lisanslıdır. Ön izleme görselleri
+https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman.jpeg
+dosyası yararlanılarak oluşturulmuştur.
+
+İmzalar teliflenemez.

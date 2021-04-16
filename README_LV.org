@@ -1,0 +1,62 @@
+* Atklāta vēstule Ričarda Stalmana atbalstam.
+  :PROPERTIES:
+  :CUSTOM_ID: atklāta-vēstule-ričarda-stalmana-atbalstam.
+  :END:
+
+[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][[[file:assets/badge-64-w-border.png]]]]
+
+Lai parakstītu, *spiediet
+[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][šeit]]*
+un nosauciet failu =<username>.yaml= (nomainiet =<username>= ar Jūsu
+vārdu) ar sekojošu saturu:
+
+#+BEGIN_EXAMPLE
+  name: <ievādiet Jūsu vārdu šeit>
+  link: <saite uz Jūsu profilu vai vietni>
+#+END_EXAMPLE
+
+Bez =<>= simboliem.
+
+Piemērs:
+
+#+BEGIN_EXAMPLE
+  name: Jānis Bērziņš
+  link: https://github.com/example_username
+#+END_EXAMPLE
+
+Lūdzu nelietojiet =<>= šajā failā, tapat kā non-ascii simbolus faila
+nosaukumā. Ja Jūs lietosiet e-pastu kā saiti, izmantojiet ar =mailto:=
+prefiksu. Ja varat, lūdzu pielietojiet Jūsu īsto vārdu un pievienojiet
+projektus un saistītas organizācijas iekavās.
+
+Tālāk *spiediet uz "Propose new file"* un ejiet cauri, lai izveidotu
+Merge request.
+
+Turēsim toni stingru, bet profesionālu.
+
+Ja jūs varat, lūdzu, apsveriet iespēju dalīties ar šo vēstuli savos
+forumos un sociālajos tīklos un informējiet žurnālistus, kuri varētu būt
+noderīgi mūsu lietā.
+
+** Pull requesti tiek apvienoti 12 stundu laikā - milzīga PR apjoma dēļ
+tie tiks apvienoti partijās **
+
+Alternatīvi, izveidojiet fork un noklonējiet repozitoriju, izveidojiet
+failu =_data/signed/<username>.yaml= manuāli, pēc tam izveidojiet commit
+un sūtiet PR.
+
+Ja vēlaties atbalstīt vēstuli, neizmantojot Github, dodieties šeit:
+https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, vai
+sūtiet parakstīto patch uz [[mailto:signrms@prog.cf][signrms@prog.cf]]
+vai
+[[mailto:~tyil/rms-support@lists.sr.ht][~tyil/rms-support@lists.sr.ht]].
+
+** Čata istabas
+   :PROPERTIES:
+   :CUSTOM_ID: čata-istabas
+   :END:
+
+- *Matrix.org:* #free-rms:matrix.org
+- *IRC:* #free-rms at chat.freenode.net
+- *Discord:* https://discord.gg/7FWkxG4CsU
+- *Telegram:* https://t.me/free_rms

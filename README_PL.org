@@ -1,0 +1,62 @@
+* Otwarty list popierający RMS.
+  :PROPERTIES:
+  :CUSTOM_ID: otwarty-list-popierający-rms.
+  :END:
+
+[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][[[file:assets/badge-64-w-border.png]]]]
+
+Aby podpisać *kliknij
+[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][tutaj]]*
+i nazwij plik =<nazwa użytkownika>.yaml= (zamień =<nazwa użytkownika>=
+na swoją nazwę), do pliku dodaj poniższą zawartość:
+
+#+BEGIN_EXAMPLE
+  name: <twoja nazwa>
+  link: <link do twojego profilu albo strony internetowej>
+#+END_EXAMPLE
+
+Bez =<>= oczywiście.
+
+Na przykład:
+
+#+BEGIN_EXAMPLE
+  name: Jan Kowalski
+  link: https://jankowalski.com/
+#+END_EXAMPLE
+
+Nie używaj =<>= ani znaków spoza ASCII w nazwie pliku. Jeżeli używasz
+swojego e-maila jako linku dodaj przed niego =mailto:=. Jeśli jest to
+możliwe prosimy, użyj swojego prawdziwego imienia i nazwiska oraz dodaj
+projekty i organizacje z którymi jesteś związany w nawiasach =()=
+
+Kiedy jesteś gotów utwórz "pull request" na GitHubie.
+
+Niech ton będzie mocny, ale profesjonalny.
+
+Jeśli możesz, prosimy, rozważ udostępnienie tego listu na swoich forach
+i w mediach społecznościowych oraz powiadom dziennikarzy, którzy mogą
+być pomocni w naszej sprawie.
+
+*Mergeowanie pull requestów może zająć do 12 godzin - spowodowane jest
+to tym, że duże ilości są mergeowane na raz.*
+
+Możesz także stworzyć forka tego repozytorium, stworzyć i zedytować
+=_data/signed/<username>.yaml= manualnie a następnie stworzyć commit i
+pull request.
+
+Jeśli chcesz wspomóc ten list *bez logowania się do GitHuba* przejdź
+tutaj:
+https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, lub
+wyślij podpisany email na adres
+[[mailto:signrms@prog.cf][signrms@prog.cf]] bądź
+[[mailto:~tyil/rms-support@lists.sr.ht][~tyil/rms-support@lists.sr.ht]].
+
+** Pokoje chatowe
+   :PROPERTIES:
+   :CUSTOM_ID: pokoje-chatowe
+   :END:
+
+- *Matrix.org:* #free-rms:matrix.org
+- *IRC:* #free-rms at chat.freenode.net
+- *Discord:* https://discord.gg/7FWkxG4CsU
+- *Telegram:* https://t.me/free_rms

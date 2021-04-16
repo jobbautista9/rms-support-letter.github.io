@@ -1,0 +1,62 @@
+* Thư ngỏ ủng hộ RMS
+  :PROPERTIES:
+  :CUSTOM_ID: thư-ngỏ-ủng-hộ-rms
+  :END:
+
+Để ký, *nhấn vào
+[[https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed][đây]]*
+và đặt tên tệp là =<tên tài khoản>.yaml= (thay =<tên tài khoản>= bằng
+tên tài khoản của bạn) với nội dung như sau:
+
+#+BEGIN_EXAMPLE
+  name: <tên bạn (tổ chức hoặc công ty, nếu phù hợp)>
+  link: <đường dẫn đến trang cá nhân hoặc trang web>
+#+END_EXAMPLE
+
+Ví dụ:
+
+#+BEGIN_EXAMPLE
+  name: Nguyễn Văn A (Công ty B)
+  link: https://github.com/nguyenvana
+#+END_EXAMPLE
+
+Đừng dùng =<>= trong tệp này và tên tệp, cũng như các kí tự ngoài bảng
+mã ASCII trong tên tệp. Nếu bạn muốn dùng đường dẫn tới email, đặt
+=mailto:= liền trước. Nếu bạn có thể, làm ơn sử dụng tên thật và thêm
+các dự án cũng như tổ chức liên quan trong ngoặc đơn.
+
+Sau đó *nhấn "Propose new file"* và đi qua các trang tiếp theo để tạo
+một pull request.
+
+Hãy cùng nhau giữ giọng điệu cứng rắn mà không mất đi tính chuyên
+nghiệp.
+
+Nếu bạn có thể, vui lòng vui lòng chia sẻ lá thư này trên các diễn đàn
+và trang mạng xã hội, và thông báo cho các nhà báo có thể giúp ích cho
+mục đích của chúng ta.
+
+Bạn cũng có thể fork và clone repo này, tạo tệp
+=_data/signed/<username>.yaml= một cách thủ công, rồi commit và tạo một
+PR.
+
+Nếu bạn muốn ủng hộ bức thư mà không dùng GitHub, tới
+[[https://codeberg.org/rms-support-letter/rms-support-letter/issues/1][Codeberg]],
+hoặc gửi một bản vá đã ký tới
+[[mailto:signrms@prog.cf][signrms@prog.cf]] hay
+[[mailto:~tyil/rms-support@lists.sr.ht][~tyil/rms-support@lists.sr.ht]].
+
+Nếu bạn cần hỗ trợ bằng hướng dẫn trực quan, xem
+[[https://invidious.snopyta.org/watch?v=1lz5S5oS8CU][video này]].
+
+*Tất cả các chữ kí sẽ được xử lý trong vòng 12 giờ do số lượng lớn.*
+
+** Phòng chat
+   :PROPERTIES:
+   :CUSTOM_ID: phòng-chat
+   :END:
+
+- *Matrix:*
+  [[https://matrix.to/#/#free-rms:matrix.org][#free-rms:matrix.org]]
+- *IRC:* #free-rms trên [[https://freenode.net][freenode]]
+- *Discord:* https://discord.gg/7FWkxG4CsU
+- *Telegram:* https://t.me/free_rms
